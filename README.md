@@ -1,6 +1,6 @@
 ![AVS MicroHack](/Images/schema/AVSMicroHackPic.png)
 
-# Azure vMware Solution (AVS) specific LAB scenarios for a 2 hour workshop
+# Azure vMware Solution LAB scenarios for a 2 hour workshop
 
 ## [Scenario](#scenario)
 
