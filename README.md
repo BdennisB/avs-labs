@@ -21,7 +21,7 @@ This lab is built of :
 - 6 AVS solution hosted in Azure regions aligned with nested On Prem vCenters instances,
 - A jumpbox per user deployed in Azure to control AVS and On Prem instances.
 
-![Lab schema](/Images/schema/LAB LBG.jpeg)
+![Lab schema](/Images/schema/LABLBG.jpeg)
 
 Each pair of AVS + on-premises cluster is assigned a unique IP range for the jumpbox. [IP ranges info](docs/Appendix.md)
 
