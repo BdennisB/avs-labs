@@ -1,6 +1,6 @@
 ![AVS MicroHack](/Images/schema/AVSMicroHackPic.png)
 
-# Handling Azure vMware Solution (AVS) network connectivity and migration scenario from on-premises to Azure
+# Azure vMware Solution (AVS) specific LAB scenarios for a 2 hour workshop
 
 ## [Scenario](#scenario)
 
@@ -8,10 +8,12 @@
 
 ## Scenario
 
-In this Microhack, you will :
+In this lab , you will :
 
 - be given an overview of the AVS architecture,
-- configure HCX and use it to migrate workloads.
+- create an NSX-T segment using the portal and verify it using NSX-T
+- create a DNS and DHCP service
+- carve out and mount an Azure Netapp Filesystem and NFS mount it as a datastore
 
 This lab is built of :
 
